@@ -1,0 +1,6 @@
+.bodyStyle{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    flex-wrap: wrap;
+}
